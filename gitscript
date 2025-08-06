@@ -58,7 +58,7 @@ CLONE_DIR="student-task-repo"
 read -p "Enter your full name: " STUDENT_NAME
 read -p "Enter your course name: " COURSE_NAME
 read -p "Enter task number: " TASK_NO
-read -p "Enter task name: " TASK_NAME
+read -p "Enter module name: " MODULE_NAME
 read -p "Enter your GitHub username: " GITHUB_USERNAME
 
 # === CREATE CLONE DIRECTORY IF NEEDED ===
